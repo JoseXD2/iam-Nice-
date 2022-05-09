@@ -1,0 +1,49 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So this song's about this one visual novel I played about a character who realized she was in a video game...",
+			"voice": "Epiphany 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theo"
+		},
+		{
+			"expression": "talk",
+			"text": "...and wanted the one thing the story wouldn't let her have.",
+			"voice": "Epiphany 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "Theo"
+		},
+		{
+			"expression": "happy",
+			"text": "As it turns out, she also was a pianist! She wrote her own song and everything.",
+			"voice": "Epiphany 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "Theo"
+		},
+		{
+			"expression": "annoyed",
+			"text": "...That being said, this one was still a pretty tough arrangement to come up with...",
+			"voice": "Epiphany 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "theo"
+		},
+		{
+			"expression": "suave",
+			"text": "Thankfully, I had an epiphany on just how to go about it!",
+			"voice": "Epiphany 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "theo"
+		}
+	]
+}

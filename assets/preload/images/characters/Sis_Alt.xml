@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sis_Alt.png"><SubTexture name="Sis_Alt altDown0000" x="3856" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0001" x="4820" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0002" x="5784" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0003" x="6748" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0004" x="3856" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0005" x="4820" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0006" x="5784" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0007" x="6748" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0000" x="3856" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0001" x="4820" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0002" x="5784" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0003" x="6748" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0004" x="3856" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0005" x="4820" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0006" x="5784" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0007" x="6748" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0000" x="3856" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0001" x="4820" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0002" x="5784" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0003" x="6748" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0004" x="3856" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0005" x="4820" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0006" x="5784" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0007" x="6748" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0000" x="3856" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0001" x="4820" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0002" x="5784" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0003" x="6748" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0004" x="3856" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0005" x="4820" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0006" x="5784" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0007" x="6748" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+</TextureAtlas>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogue raquel.png"><SubTexture name="dialogue raquel confused0000" x="0" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel confused0001" x="964" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel confused0002" x="1928" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel confused0003" x="2892" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel confused0004" x="0" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel confused0005" x="964" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel excited0000" x="1928" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel excited0001" x="2892" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel excited0002" x="0" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel excited0003" x="964" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel excited0004" x="1928" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel excited0005" x="2892" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel happy0000" x="0" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel happy0001" x="964" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel happy0002" x="1928" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel happy0003" x="2892" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel happy0004" x="0" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel happy0005" x="964" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel offended0000" x="1928" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel offended0001" x="2892" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel offended0002" x="0" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel offended0003" x="964" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel offended0004" x="1928" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel offended0005" x="2892" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel talk0000" x="0" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel talk0001" x="964" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel talk0002" x="1928" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel talk0003" x="2892" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel talk0004" x="0" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel talk0005" x="964" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel uwu0000" x="1928" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel uwu0001" x="2892" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel uwu0002" x="0" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel uwu0003" x="964" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel uwu0004" x="1928" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="dialogue raquel uwu0005" x="2892" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+</TextureAtlas>

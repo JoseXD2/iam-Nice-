@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Minji.png"><SubTexture name="Minji fill_cymbal0000" x="6241" y="3092" width="892" height="771" frameX="-47" frameY="-159" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0001" x="4507" y="4956" width="892" height="774" frameX="-47" frameY="-156" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0002" x="7133" y="4557" width="892" height="753" frameX="-47" frameY="-177" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0003" x="2719" y="6509" width="887" height="745" frameX="-51" frameY="-186" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0004" x="896" y="6509" width="923" height="750" frameX="-31" frameY="-180" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0005" x="2677" y="2594" width="886" height="761" frameX="-48" frameY="-169" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0006" x="7133" y="0" width="897" height="761" frameX="-41" frameY="-169" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0007" x="7133" y="761" width="892" height="761" frameX="-47" frameY="-169" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_cymbal0008" x="7133" y="761" width="892" height="761" frameX="-47" frameY="-169" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_shortcymbal0000" x="2675" y="3389" width="892" height="784" frameX="-47" frameY="-146" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_shortcymbal0001" x="4458" y="5736" width="909" height="764" frameX="-30" frameY="-160" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_shortcymbal0002" x="2700" y="4956" width="916" height="776" frameX="-23" frameY="-148" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_shortcymbal0003" x="4457" y="0" width="892" height="784" frameX="-47" frameY="-146" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_snare0000" x="0" y="4174" width="892" height="782" frameX="-47" frameY="-148" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_snare0001" x="892" y="4174" width="892" height="782" frameX="-47" frameY="-148" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_snare0002" x="3600" y="4174" width="892" height="781" frameX="-47" frameY="-149" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_snare0003" x="5349" y="0" width="892" height="780" frameX="-47" frameY="-150" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_snare0004" x="5349" y="780" width="892" height="780" frameX="-47" frameY="-150" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_snare0005" x="5349" y="1560" width="892" height="780" frameX="-47" frameY="-150" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0000" x="0" y="3389" width="892" height="785" frameX="-47" frameY="-145" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0001" x="4457" y="784" width="892" height="784" frameX="-47" frameY="-146" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0002" x="1784" y="4174" width="892" height="782" frameX="-47" frameY="-148" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0003" x="4457" y="1568" width="892" height="784" frameX="-47" frameY="-146" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0004" x="4457" y="3136" width="892" height="783" frameX="-47" frameY="-147" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0005" x="2673" y="0" width="892" height="808" frameX="-47" frameY="-122" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0006" x="5479" y="6509" width="887" height="740" frameX="-51" frameY="-191" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0007" x="3606" y="6509" width="941" height="745" frameX="-18" frameY="-186" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0008" x="7133" y="1522" width="885" height="761" frameX="-49" frameY="-169" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_rollcrash0009" x="7133" y="3802" width="892" height="755" frameX="-47" frameY="-175" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0000" x="892" y="3389" width="893" height="785" frameX="-47" frameY="-145" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0001" x="892" y="2594" width="895" height="789" frameX="-47" frameY="-147" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0002" x="1785" y="3389" width="890" height="785" frameX="-47" frameY="-146" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0003" x="5349" y="2340" width="890" height="780" frameX="-47" frameY="-150" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0004" x="3567" y="3389" width="890" height="773" frameX="-47" frameY="-154" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0005" x="4457" y="2352" width="890" height="784" frameX="-47" frameY="-146" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0006" x="3565" y="1576" width="890" height="787" frameX="-47" frameY="-143" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0007" x="3565" y="2363" width="890" height="786" frameX="-47" frameY="-144" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0008" x="1784" y="1780" width="884" height="768" frameX="-53" frameY="-162" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0009" x="2676" y="4174" width="924" height="782" frameX="-13" frameY="-148" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0010" x="908" y="4956" width="900" height="777" frameX="-37" frameY="-153" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji fill_toms0011" x="0" y="4956" width="908" height="780" frameX="-29" frameY="-150" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceLeft0000" x="6241" y="0" width="892" height="773" frameX="-47" frameY="-157" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceLeft0001" x="6366" y="6509" width="888" height="738" frameX="-51" frameY="-194" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceLeft0002" x="5367" y="5736" width="896" height="764" frameX="-43" frameY="-166" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceLeft0003" x="1786" y="5736" width="890" height="768" frameX="-49" frameY="-162" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceRight0000" x="893" y="5736" width="893" height="772" frameX="-46" frameY="-158" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceRight0001" x="1786" y="875" width="886" height="776" frameX="-51" frameY="-156" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceRight0002" x="7133" y="2283" width="891" height="760" frameX="-49" frameY="-170" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji danceRight0003" x="6241" y="3863" width="886" height="771" frameX="-49" frameY="-159" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0000" x="6241" y="773" width="892" height="773" frameX="-47" frameY="-157" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0001" x="6241" y="1546" width="888" height="773" frameX="-51" frameY="-159" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0002" x="7133" y="3043" width="896" height="759" frameX="-43" frameY="-171" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0003" x="3568" y="5736" width="890" height="766" frameX="-49" frameY="-164" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0004" x="0" y="5736" width="893" height="773" frameX="-46" frameY="-157" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0005" x="5349" y="3900" width="886" height="777" frameX="-51" frameY="-155" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0006" x="3616" y="4956" width="891" height="775" frameX="-49" frameY="-155" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji idle_doubletime0007" x="6241" y="2319" width="886" height="773" frameX="-49" frameY="-157" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singDOWN0000" x="896" y="7260" width="892" height="714" frameX="-47" frameY="-216" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singDOWN0001" x="5356" y="7260" width="892" height="695" frameX="-47" frameY="-237" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singDOWN0002" x="2680" y="7260" width="892" height="712" frameX="-47" frameY="-218" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singDOWN0003" x="1788" y="7260" width="892" height="713" frameX="-47" frameY="-217" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singLEFT0000" x="0" y="899" width="892" height="881" frameX="-47" frameY="-49" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singLEFT0001" x="4547" y="6509" width="932" height="742" frameX="-7" frameY="-188" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singLEFT0002" x="1787" y="2594" width="890" height="789" frameX="-49" frameY="-141" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singLEFT0003" x="6241" y="4634" width="892" height="770" frameX="-47" frameY="-160" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singRIGHT0000" x="0" y="6509" width="896" height="751" frameX="-47" frameY="-179" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singRIGHT0001" x="0" y="7260" width="896" height="731" frameX="-47" frameY="-194" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singRIGHT0002" x="1819" y="6509" width="900" height="747" frameX="-47" frameY="-183" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singRIGHT0003" x="7133" y="5310" width="892" height="752" frameX="-47" frameY="-178" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singUP0000" x="892" y="899" width="892" height="879" frameX="-47" frameY="-51" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singUP0001" x="0" y="0" width="894" height="899" frameX="-47" frameY="-32" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singUP0002" x="1786" y="0" width="887" height="875" frameX="-47" frameY="-55" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji singUP0003" x="894" y="0" width="892" height="882" frameX="-47" frameY="-48" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji rest0000" x="5349" y="3120" width="892" height="780" frameX="-47" frameY="-150" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji rest0001" x="3565" y="0" width="892" height="788" frameX="-47" frameY="-142" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji rest0002" x="2676" y="5736" width="892" height="767" frameX="-47" frameY="-163" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji rest0003" x="1808" y="4956" width="892" height="777" frameX="-47" frameY="-153" frameWidth="964" frameHeight="964" />
+<SubTexture name="Minji alt singDOWN0000" x="4464" y="7260" width="892" height="703" frameX="-45" frameY="-225" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singDOWN0001" x="3572" y="7260" width="892" height="708" frameX="-45" frameY="-220" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singDOWN0002" x="3572" y="7260" width="892" height="708" frameX="-45" frameY="-220" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singLEFT0000" x="2673" y="1610" width="892" height="796" frameX="-45" frameY="-132" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singLEFT0001" x="3565" y="788" width="892" height="788" frameX="-45" frameY="-140" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singLEFT0002" x="3565" y="788" width="892" height="788" frameX="-45" frameY="-140" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singRIGHT0000" x="2673" y="808" width="892" height="802" frameX="-45" frameY="-126" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singRIGHT0001" x="0" y="2594" width="892" height="795" frameX="-45" frameY="-133" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singRIGHT0002" x="0" y="2594" width="892" height="795" frameX="-45" frameY="-133" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singUP0000" x="0" y="1780" width="892" height="814" frameX="-45" frameY="-114" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singUP0001" x="892" y="1780" width="892" height="810" frameX="-45" frameY="-118" frameWidth="960" frameHeight="960" />
+<SubTexture name="Minji alt singUP0002" x="892" y="1780" width="892" height="810" frameX="-45" frameY="-118" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

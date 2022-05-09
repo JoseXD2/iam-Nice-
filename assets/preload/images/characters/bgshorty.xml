@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgshorty.png"><SubTexture name="bgshorty idle0000" x="0" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="bgshorty idle0001" x="754" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="bgshorty idle0002" x="1508" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="bgshorty idle0003" x="2262" y="0" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+<SubTexture name="bgshorty idle0004" x="0" y="754" width="754" height="754" frameX="0" frameY="0" frameWidth="754" frameHeight="754" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"idle_anim": "covermenu 1 idle",
+	"confirm_anim": "covermenu 1 confirm",
+	"position": [
+		490,
+		14
+	],
+	"scale": 1,
+	"image": "covermenu 1"
+}

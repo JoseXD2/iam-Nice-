@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-40,
+		-230
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialoguetheo talk",
+			"idle_name": "dialoguetheo talk0001"
+		},
+		{
+			"loop_name": "dialoguetheo happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialoguetheo happy0001",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialoguetheo suave",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialoguetheo suave0001",
+			"anim": "suave",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialoguetheo annoyed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialoguetheo annoyed0001",
+			"anim": "annoyed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "dialoguetheo"
+}

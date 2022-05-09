@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialogue_shorty.png">
+<SubTexture name="dialogue_shorty flirty0000" x="1294" y="1067" width="456" height="505" frameX="-341" frameY="-160" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty flirty0001" x="1294" y="1067" width="456" height="505" frameX="-341" frameY="-160" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty flirty0002" x="367" y="1067" width="465" height="513" frameX="-331" frameY="-151" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty flirty0003" x="367" y="1067" width="465" height="513" frameX="-331" frameY="-151" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty flirty0004" x="832" y="1067" width="462" height="511" frameX="-333" frameY="-153" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty flirty0005" x="832" y="1067" width="462" height="511" frameX="-333" frameY="-153" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty happy0000" x="1303" y="0" width="448" height="518" frameX="-277" frameY="-147" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty happy0001" x="1303" y="0" width="448" height="518" frameX="-277" frameY="-147" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty happy0002" x="0" y="0" width="466" height="538" frameX="-257" frameY="-127" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty happy0003" x="0" y="0" width="466" height="538" frameX="-257" frameY="-127" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty happy0004" x="0" y="538" width="458" height="529" frameX="-268" frameY="-136" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty happy0005" x="0" y="538" width="458" height="529" frameX="-268" frameY="-136" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty talk0000" x="1303" y="518" width="448" height="518" frameX="-277" frameY="-147" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty talk0001" x="1303" y="518" width="448" height="518" frameX="-277" frameY="-147" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty talk0002" x="466" y="0" width="466" height="538" frameX="-257" frameY="-127" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty talk0003" x="466" y="0" width="466" height="538" frameX="-257" frameY="-127" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty talk0004" x="458" y="538" width="458" height="529" frameX="-268" frameY="-136" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty talk0005" x="458" y="538" width="458" height="529" frameX="-268" frameY="-136" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty offended0000" x="0" y="1067" width="367" height="518" frameX="-277" frameY="-147" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty offended0001" x="0" y="1067" width="367" height="518" frameX="-277" frameY="-147" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty offended0002" x="932" y="0" width="371" height="534" frameX="-265" frameY="-133" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty offended0003" x="932" y="0" width="371" height="534" frameX="-265" frameY="-133" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty offended0004" x="916" y="538" width="367" height="521" frameX="-276" frameY="-146" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty offended0005" x="916" y="538" width="367" height="521" frameX="-276" frameY="-146" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialogue_shorty embarrassed0000" x="1751" y="0" width="476" height="487" frameX="-345" frameY="-178" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

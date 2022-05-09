@@ -1,0 +1,103 @@
+{
+	"dialogue": [
+		{
+			"expression": "sassy",
+			"text": "Hey, hey! Just like we promised, we've landed another gig.",
+			"voice": "Kunai 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "sis"
+		},
+		{
+			"expression": "happy",
+			"text": "Let's just get right to it, yeah?",
+			"voice": "Kunai 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "sis"
+		},
+		{
+			"expression": "talk",
+			"text": "it's go time",
+			"voice": "Kunai 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Mind telling us a bit about the songs you're playing tonight?",
+			"voice": "Kunai 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "happy",
+			"text": "Sure! Okay, so.",
+			"voice": "Kunai 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "sis"
+		},
+		{
+			"expression": "talk",
+			"text": "This arrangement was actually inspired by that trip to Japan you told me about, G.",
+			"voice": "Kunai 6",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "sis"
+		},
+		{
+			"expression": "talk",
+			"text": "I think I see where this is going.",
+			"voice": "Kunai 7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "Gf"
+		},
+		{
+			"expression": "sassy",
+			"text": "Yeah? You remember the ninjas?",
+			"voice": "Kunai 8",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "sis"
+		},
+		{
+			"expression": "confused",
+			"text": "How could I forget the ninjas?",
+			"voice": "Kunai 9",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Right. Anyways. I don't think you of all people need an introduction to this one.",
+			"voice": "Kunai 10",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "sis"
+		},
+		{
+			"expression": "happy",
+			"text": "Here we go!",
+			"voice": "Kunai 11",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sis"
+		}
+	]
+}

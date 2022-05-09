@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Raquel.png"><SubTexture name="Raquel danceLeft0000" x="1126" y="1898" width="584" height="923" frameX="-190" frameY="-6" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceLeft0001" x="3236" y="0" width="602" height="922" frameX="-169" frameY="-7" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceLeft0002" x="3838" y="912" width="614" height="903" frameX="-147" frameY="-26" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceLeft0003" x="3838" y="0" width="617" height="912" frameX="-151" frameY="-17" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceRight0000" x="1126" y="1898" width="584" height="923" frameX="-190" frameY="-6" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceRight0001" x="1710" y="1898" width="577" height="923" frameX="-198" frameY="-6" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceRight0002" x="3236" y="922" width="572" height="918" frameX="-204" frameY="-11" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel danceRight0003" x="2287" y="1898" width="596" height="923" frameX="-178" frameY="-6" frameWidth="964" frameHeight="964" />
+<SubTexture name="Raquel singLEFT0000" x="1161" y="2823" width="640" height="914" frameX="-120" frameY="-10" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singLEFT0001" x="1801" y="2823" width="622" height="913" frameX="-136" frameY="-11" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singLEFT0002" x="2423" y="2823" width="632" height="913" frameX="-127" frameY="-11" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singLEFT0003" x="3055" y="2823" width="632" height="913" frameX="-127" frameY="-11" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singRIGHT0000" x="700" y="954" width="587" height="938" frameX="-254" frameY="0" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singRIGHT0001" x="1287" y="954" width="577" height="938" frameX="-254" frameY="-1" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singRIGHT0002" x="2064" y="0" width="585" height="938" frameX="-254" frameY="-1" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singRIGHT0003" x="2649" y="0" width="587" height="938" frameX="-254" frameY="-1" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singUP0000" x="2649" y="938" width="568" height="925" frameX="-206" frameY="-2" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singUP0001" x="559" y="1898" width="567" height="924" frameX="-207" frameY="-2" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singUP0002" x="2064" y="938" width="559" height="925" frameX="-215" frameY="-2" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singUP0003" x="0" y="1898" width="559" height="925" frameX="-215" frameY="-2" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singDOWN0000" x="688" y="0" width="679" height="949" frameX="-184" frameY="-4" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singDOWN0001" x="1367" y="0" width="697" height="944" frameX="-179" frameY="-5" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singDOWN0002" x="0" y="0" width="688" height="954" frameX="-179" frameY="0" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel singDOWN0003" x="0" y="954" width="700" height="944" frameX="-179" frameY="-6" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel sing_altDOWN0000" x="3236" y="1840" width="572" height="918" frameX="-202" frameY="-9" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel sing_altDOWN0001" x="0" y="2823" width="583" height="918" frameX="-191" frameY="-9" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel sing_altDOWN0002" x="583" y="2823" width="578" height="918" frameX="-196" frameY="-9" frameWidth="960" frameHeight="960" />
+<SubTexture name="Raquel sing_altDOWN0003" x="583" y="2823" width="578" height="918" frameX="-196" frameY="-9" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sis.png"><SubTexture name="Sister Searest idle0000" x="1797" y="2653" width="620" height="857" frameX="-97" frameY="-70" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0001" x="1797" y="2653" width="620" height="857" frameX="-97" frameY="-70" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0002" x="1797" y="2653" width="620" height="857" frameX="-97" frameY="-70" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0003" x="1797" y="2653" width="620" height="857" frameX="-97" frameY="-70" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0004" x="1186" y="2653" width="611" height="858" frameX="-98" frameY="-69" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0005" x="4316" y="0" width="709" height="855" frameX="-100" frameY="-73" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0006" x="741" y="3516" width="698" height="852" frameX="-102" frameY="-76" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0007" x="3620" y="0" width="696" height="856" frameX="-102" frameY="-74" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0008" x="0" y="2653" width="659" height="863" frameX="-100" frameY="-67" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0009" x="4056" y="3516" width="639" height="850" frameX="-97" frameY="-77" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0000" x="4316" y="2565" width="681" height="853" frameX="-15" frameY="-84" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0001" x="4316" y="2565" width="681" height="853" frameX="-15" frameY="-84" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0002" x="3620" y="856" width="657" height="853" frameX="-36" frameY="-85" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0003" x="3620" y="1709" width="657" height="853" frameX="-36" frameY="-85" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0004" x="1369" y="4370" width="668" height="845" frameX="-28" frameY="-93" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0005" x="2037" y="4370" width="668" height="845" frameX="-28" frameY="-93" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0006" x="4316" y="855" width="680" height="855" frameX="-19" frameY="-83" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singLeft0007" x="4316" y="855" width="680" height="855" frameX="-19" frameY="-83" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0000" x="0" y="888" width="641" height="886" frameX="-186" frameY="-44" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0001" x="0" y="888" width="641" height="886" frameX="-186" frameY="-44" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0002" x="2227" y="0" width="753" height="880" frameX="-198" frameY="-53" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0003" x="2227" y="880" width="753" height="880" frameX="-198" frameY="-53" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0004" x="741" y="0" width="743" height="887" frameX="-194" frameY="-45" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0005" x="1484" y="0" width="743" height="887" frameX="-194" frameY="-45" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0006" x="0" y="0" width="741" height="888" frameX="-194" frameY="-44" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singRight0007" x="0" y="0" width="741" height="888" frameX="-194" frameY="-44" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0000" x="3413" y="4370" width="695" height="842" frameX="-82" frameY="-87" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0001" x="5764" y="0" width="648" height="833" frameX="-81" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0002" x="0" y="5217" width="651" height="833" frameX="-81" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0003" x="651" y="5217" width="700" height="833" frameX="-83" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0004" x="1351" y="5217" width="700" height="833" frameX="-83" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0005" x="4108" y="4370" width="695" height="841" frameX="-83" frameY="-87" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0006" x="4803" y="4370" width="695" height="841" frameX="-83" frameY="-87" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singDown0007" x="3413" y="4370" width="695" height="842" frameX="-82" frameY="-87" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0000" x="5764" y="833" width="563" height="833" frameX="-116" frameY="-85" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0001" x="5764" y="833" width="563" height="833" frameX="-116" frameY="-85" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0002" x="5764" y="4152" width="641" height="818" frameX="-113" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0003" x="2051" y="5217" width="641" height="818" frameX="-113" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0004" x="5764" y="1666" width="621" height="829" frameX="-109" frameY="-87" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0005" x="5764" y="2495" width="621" height="829" frameX="-109" frameY="-87" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0006" x="5764" y="3324" width="617" height="828" frameX="-106" frameY="-88" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest singUp0007" x="5764" y="3324" width="617" height="828" frameX="-106" frameY="-88" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0000" x="2417" y="2653" width="530" height="857" frameX="-178" frameY="-71" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0001" x="2417" y="2653" width="530" height="857" frameX="-178" frameY="-71" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0002" x="5025" y="3398" width="529" height="848" frameX="-179" frameY="-80" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0003" x="5025" y="3398" width="529" height="848" frameX="-179" frameY="-80" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0004" x="659" y="2653" width="527" height="859" frameX="-181" frameY="-69" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0005" x="659" y="2653" width="527" height="859" frameX="-181" frameY="-69" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0006" x="2980" y="1738" width="523" height="860" frameX="-185" frameY="-68" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altDown0007" x="2980" y="1738" width="523" height="860" frameX="-185" frameY="-68" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0000" x="1971" y="1774" width="640" height="871" frameX="-65" frameY="-59" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0001" x="1971" y="1774" width="640" height="871" frameX="-65" frameY="-59" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0002" x="2980" y="871" width="636" height="867" frameX="-65" frameY="-63" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0003" x="2980" y="871" width="636" height="867" frameX="-65" frameY="-63" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0004" x="1339" y="1774" width="632" height="874" frameX="-70" frameY="-56" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0005" x="1339" y="1774" width="632" height="874" frameX="-70" frameY="-56" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0006" x="2980" y="0" width="640" height="871" frameX="-65" frameY="-59" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altLeft0007" x="2980" y="0" width="640" height="871" frameX="-65" frameY="-59" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0000" x="641" y="888" width="691" height="886" frameX="-259" frameY="-51" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0001" x="641" y="888" width="691" height="886" frameX="-259" frameY="-51" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0002" x="1332" y="888" width="663" height="882" frameX="-258" frameY="-55" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0003" x="1332" y="888" width="663" height="882" frameX="-258" frameY="-55" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0004" x="669" y="1774" width="670" height="877" frameX="-260" frameY="-60" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0005" x="669" y="1774" width="670" height="877" frameX="-260" frameY="-60" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0006" x="0" y="1774" width="669" height="879" frameX="-261" frameY="-58" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altRight0007" x="0" y="1774" width="669" height="879" frameX="-261" frameY="-58" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0000" x="2692" y="5217" width="468" height="810" frameX="-231" frameY="-108" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0001" x="2692" y="5217" width="468" height="810" frameX="-231" frameY="-108" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0002" x="3160" y="5217" width="476" height="810" frameX="-224" frameY="-108" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0003" x="3160" y="5217" width="476" height="810" frameX="-224" frameY="-108" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0004" x="3636" y="5217" width="469" height="807" frameX="-236" frameY="-112" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0005" x="3636" y="5217" width="469" height="807" frameX="-236" frameY="-112" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0006" x="4105" y="5217" width="468" height="807" frameX="-239" frameY="-111" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sis_Alt altUp0007" x="4105" y="5217" width="468" height="807" frameX="-239" frameY="-111" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest voiceline0000" x="2947" y="2653" width="624" height="857" frameX="-95" frameY="-68" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0001" x="4316" y="1710" width="626" height="855" frameX="-93" frameY="-70" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0002" x="0" y="4370" width="624" height="847" frameX="-90" frameY="-78" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0003" x="3620" y="2562" width="627" height="852" frameX="-79" frameY="-73" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0004" x="2062" y="3516" width="627" height="851" frameX="-82" frameY="-74" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0005" x="2689" y="3516" width="627" height="851" frameX="-82" frameY="-74" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0006" x="1439" y="3516" width="623" height="852" frameX="-85" frameY="-73" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0007" x="2705" y="4370" width="708" height="845" frameX="-86" frameY="-80" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0008" x="624" y="4370" width="745" height="847" frameX="-88" frameY="-78" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0009" x="0" y="3516" width="741" height="854" frameX="-88" frameY="-71" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0010" x="5025" y="1700" width="738" height="849" frameX="-88" frameY="-76" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0011" x="5025" y="0" width="739" height="850" frameX="-87" frameY="-75" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0012" x="5025" y="850" width="738" height="850" frameX="-88" frameY="-75" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0013" x="5025" y="2549" width="738" height="849" frameX="-88" frameY="-76" frameWidth="960" frameHeight="960" />
+<SubTexture name="Sister Searest voiceline0014" x="3316" y="3516" width="740" height="851" frameX="-87" frameY="-74" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

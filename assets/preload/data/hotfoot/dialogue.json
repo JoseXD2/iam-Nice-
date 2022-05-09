@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "sassy",
+			"text": "Swankified. Good to see you keepin' up, B. You've got serious chops!",
+			"voice": "Hotfoot 1",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.07
+		},
+		{
+			"expression": "talk",
+			"text": "Bebop",
+			"voice": "Hotfoot 2",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "surprised",
+			"text": "Hey, how'd you know what we're playin' next?",
+			"voice": "Hotfoot 3",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "Beep bop skedoop bop",
+			"voice": "Hotfoot 4",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03
+		},
+		{
+			"expression": "happy",
+			"text": "Hah! Already layin' down slick scat solos, huh?",
+			"voice": "Hotfoot 5",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.065
+		},
+		{
+			"expression": "sassy",
+			"text": "Hope you've got plenty more where that came from, hotshot. You ready for the last one?",
+			"voice": "Hotfoot 6",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "bruh what about your third phase\\ntransformation",
+			"voice": "Hotfoot 7",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.04
+		},
+		{
+			"expression": "surprised",
+			"text": "Huh?",
+			"voice": "hotfoot 8",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "don't you have like demon powers lol",
+			"voice": "Hotfoot 9",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.045
+		},
+		{
+			"expression": "happy",
+			"text": "Well, doy. I'm a Dearest.",
+			"voice": "Hotfoot 10",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.07
+		},
+		{
+			"expression": "talk",
+			"text": "can we see them",
+			"voice": "Hotfoot 11",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "No",
+			"voice": "Hotfoot 12",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		}
+	]
+}

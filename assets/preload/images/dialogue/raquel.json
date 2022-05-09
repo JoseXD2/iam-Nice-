@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-80,
+		-230
+	],
+	"scale": 1.1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-4
+			],
+			"loop_name": "dialogue raquel talk",
+			"idle_name": "dialogue raquel talk0000"
+		},
+		{
+			"loop_offsets": [
+				5,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				4,
+				-8
+			],
+			"loop_name": "dialogue raquel excited",
+			"idle_name": "dialogue raquel excited0000"
+		},
+		{
+			"loop_name": "dialogue raquel offended",
+			"idle_offsets": [
+				0,
+				-4
+			],
+			"idle_name": "dialogue raquel offended0000",
+			"anim": "offended",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialogue raquel uwu",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue raquel uwu0000",
+			"anim": "uwu",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialogue raquel happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue raquel happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialogue raquel confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue raquel confused0000",
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "dialogue raquel"
+}

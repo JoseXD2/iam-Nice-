@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shorty.png"><SubTexture name="Shorty alt-singDOWN0000" x="0" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singDOWN0001" x="964" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singDOWN0002" x="1928" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singDOWN0003" x="2892" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singLEFT0000" x="0" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singLEFT0001" x="964" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singLEFT0002" x="1928" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singLEFT0003" x="2892" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singRIGHT0000" x="0" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singRIGHT0001" x="964" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singRIGHT0002" x="1928" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singRIGHT0003" x="2892" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singUP0000" x="0" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singUP0001" x="964" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singUP0002" x="1928" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty alt-singUP0003" x="2892" y="2892" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty idle0000" x="0" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty idle0001" x="964" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty idle0002" x="1928" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty idle0003" x="2892" y="3856" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty idle0004" x="0" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singDOWN0000" x="964" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singDOWN0001" x="1928" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singDOWN0002" x="2892" y="4820" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singDOWN0003" x="0" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singLEFT0000" x="964" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singLEFT0001" x="1928" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singLEFT0002" x="2892" y="5784" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singLEFT0003" x="0" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singRIGHT0000" x="964" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singRIGHT0001" x="1928" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singRIGHT0002" x="2892" y="6748" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singRIGHT0003" x="0" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singUP0000" x="964" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singUP0001" x="1928" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singUP0002" x="2892" y="7712" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Shorty singUP0003" x="0" y="8676" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+</TextureAtlas>

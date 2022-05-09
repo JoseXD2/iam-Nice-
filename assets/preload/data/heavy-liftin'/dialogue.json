@@ -1,0 +1,112 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Mmm. That one just hits different when we got a duet goin'.",
+			"voice": "Heavy 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "theo"
+		},
+		{
+			"expression": "happy",
+			"text": "You said it!",
+			"voice": "Heavy 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "talk",
+			"text": "We got one more song to play.",
+			"voice": "Heavy 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sis"
+		},
+		{
+			"expression": "sassy",
+			"text": "Minji, why don't you show 'em what we've been cookin' up for the finale?",
+			"voice": "Heavy 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "Sis"
+		},
+		{
+			"expression": "happy",
+			"text": "Hell yeah.",
+			"voice": "Heavy 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "minji"
+		},
+		{
+			"expression": "confident",
+			"text": "Hey, Boyfriend. Gonna warn you right now, this one's gonna be a li'l bit different.",
+			"voice": "Heavy 6",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Minji"
+		},
+		{
+			"expression": "casual",
+			"text": "I love jazz, but at my core I'm a rocker, so you better be ready to shift gears here.",
+			"voice": "Heavy 7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "Minji"
+		},
+		{
+			"expression": "talk",
+			"text": "bring it on, i beat daddy dearest outta the gate",
+			"voice": "Heavy 8",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Oooh, big man, takin' on THE Daddy Dearest, eh? Maybe this one'll be more up your alley after all.",
+			"voice": "Heavy 9",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "minji"
+		},
+		{
+			"expression": "happy",
+			"text": "Lay it down, Minji. Y'all ready?",
+			"voice": "Heavy 10",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "sis"
+		},
+		{
+			"expression": "excited",
+			"text": "yea les go >:]",
+			"voice": "Heavy 11",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "flex",
+			"text": "Hope you're ready to do a little \\n''Heavy Liftin'.'' Let's rock.",
+			"voice": "Heavy 12",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "minji"
+		}
+	]
+}

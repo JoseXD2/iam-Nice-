@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "You deserve a big hand, Boyfriend. That was smooth.",
+			"voice": "Pesto 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "theo"
+		},
+		{
+			"expression": "excited",
+			"text": "hella",
+			"voice": "Pesto 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Aight, Shorty, what're we playin' next?",
+			"voice": "Pesto 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sis"
+		},
+		{
+			"expression": "flirty",
+			"text": "Better get ready, guys, this is a fast one. Hope you can keep up with us, Boyfriend.",
+			"voice": "Pesto 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "shorty"
+		},
+		{
+			"expression": "talk",
+			"text": "this isn't one of those songs that's hard for the sake of being hard is it",
+			"voice": "Pesto 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "offended",
+			"text": "You WOUND me! Bebop is an ART!",
+			"voice": "Pesto 6",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.11,
+			"portrait": "shorty"
+		},
+		{
+			"expression": "upset",
+			"text": "Hey. Eyes up, I'm gonna count us off.",
+			"voice": "Pesto 7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "minji"
+		}
+	]
+}

@@ -1,0 +1,211 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Hot stuff! Now THAT is what I'm talkin' about!",
+			"voice": "week1end 1",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "casual",
+			"text": "You got game, kid. I'm impressed.",
+			"voice": "week1end 2",
+			"boxState": "normal",
+			"portrait": "minji",
+			"speed": 0.065,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Hey, Sister, you sure he doesn't go here?",
+			"voice": "week1end 3",
+			"boxState": "normal",
+			"portrait": "shorty",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Little man's got a big band sound.",
+			"voice": "week1end 4",
+			"boxState": "normal",
+			"portrait": "theo",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "Mm-hm! I'm almost sorry that's our entire set, I mean, I'd love to hear more of that, load that up on my plate, WOO-WOO!",
+			"voice": "week1end 5",
+			"boxState": "normal",
+			"portrait": "raquel",
+			"speed": 0.07,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Hahaha! You're one hep cat, B.",
+			"voice": "week1end 6",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.08,
+			"sound": ""
+		},
+		{
+			"expression": "sassy",
+			"text": "If you weren't so busy scatting at everyone you see like G says, I'd invite you to join the combo.",
+			"voice": "week1end 7",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "bop bee boop?",
+			"voice": "week1end 8",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "The other stipulation's that you have to be a student here.",
+			"voice": "week1end 9",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "fair lmao",
+			"voice": "week1end 10",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Thanks for letting us sit in on your rehearsal, Sis!",
+			"voice": "week1end 11",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Hey, no problemo, G, you and your man just stay cool.",
+			"voice": "week1end 12",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.055,
+			"sound": ""
+		},
+		{
+			"expression": "sassy",
+			"text": "And B, just lemme know when you wanna start callin' me  ''Sister-In-Law Searest.''",
+			"voice": "week1end 13",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.055,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "Ooh-la-la",
+			"voice": "week1end 14",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.075,
+			"sound": ""
+		},
+		{
+			"expression": "shocked",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAA",
+			"voice": "week1end 15",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.00999999999999999,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "Oh, right! Before I forget!",
+			"voice": "week1end 16",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.06,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "We're in talks for a big-time gig. Real New York jazz club. Take a gander.",
+			"voice": "week1end 17",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.065,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "ayo this is lit ngl",
+			"voice": "week1end 18",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.065,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Yea, I'll text G if we can book the show; you're welcome to join us on stage if we do.",
+			"voice": "week1end 19",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.055,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "Though I know it's a bit of a drive.",
+			"voice": "week1end 20",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "sassy",
+			"text": "Regardless, if you ever wanna just jam, you're always welcome to swing on by here for a li'l freeplay.",
+			"voice": "week1end 21",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.045,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Are you breaking the fourth wall?",
+			"voice": "week1end 22",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.06,
+			"sound": ""
+		},
+		{
+			"expression": "annoyed",
+			"text": "shut",
+			"voice": "week1end 23",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

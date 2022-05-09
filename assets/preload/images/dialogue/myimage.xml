@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="myimage.png">
+	<!-- Use these for all your images. make sure "imagePath"is set to your image. -->
+	<SubTexture name="image" x="0" y="0" width="1280" height="720"/>
+</TextureAtlas>
+
+	

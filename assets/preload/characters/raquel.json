@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "Raquel danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "Raquel danceRight"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Raquel singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				30
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Raquel singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				19
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Raquel singUP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				39
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Raquel singDOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				13
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Raquel sing_altDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Raquel",
+	"position": [
+		-190,
+		-130
+	],
+	"healthicon": "Raquel",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		159,
+		81
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9,
+	"voicelines": 10
+}

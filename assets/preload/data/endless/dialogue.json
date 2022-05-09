@@ -1,0 +1,49 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "This chart took me back to a simpler time in my childhood.",
+			"voice": "Endless 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "talk",
+			"text": "I remember kicking it back in our apartment after school on a Friday...",
+			"voice": "Endless 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "happy",
+			"text": "...breaking out the GameCube and a bag of chips, and just playing the Sonic collection 'til I got tired.",
+			"voice": "Endless 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "excited",
+			"text": "Back then, it felt as though the fun was really infinite...",
+			"voice": "Endless 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "confused",
+			"text": "...What? What's with the smirk?",
+			"voice": "Endless 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "raquel"
+		}
+	]
+}

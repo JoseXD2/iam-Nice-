@@ -1,0 +1,260 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Sis!",
+			"voice": "Midtown 1",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.08
+		},
+		{
+			"expression": "happy",
+			"text": "Yo, G, is that you? Oh my God, it's so good to see you! How ya been?",
+			"voice": "Midtown 2",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.075
+		},
+		{
+			"expression": "talk",
+			"text": "Great! My boyfriend and I came down to visit.",
+			"voice": "Midtown 3",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.065
+		},
+		{
+			"expression": "talk",
+			"text": "Sister, this is Boyfriend. Boyfriend, Sister Searest.",
+			"voice": "Midtown 4",
+			"boxState": "normal",
+			"speed": 0.085,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "yo what up",
+			"voice": "midtown 5",
+			"boxState": "normal",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "surprised",
+			"text": "So you're the Boyfriend G's been talkin' so much about, eh?",
+			"voice": "midtown 6",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "sis"
+		},
+		{
+			"expression": "sassy",
+			"text": "Heard through the grapevine you were/\\\\\\nsomethin' of a musician.",
+			"voice": "midtown 7",
+			"boxState": "normal",
+			"speed": 0.035,
+			"portrait": "sis"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep beepbop",
+			"voice": "midtown 8",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Lemme introduce you to the band. We were just in the middle of a rehearsal.",
+			"voice": "midtown 9",
+			"boxState": "normal",
+			"speed": 0.045,
+			"portrait": "Sis"
+		},
+		{
+			"expression": "talk",
+			"text": "On piano, we got Theo; ask anyone and they'll tell you he's got flyin' fingers.",
+			"voice": "midtown 10",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.06
+		},
+		{
+			"expression": "sassy",
+			"text": "Theo, I see you workin' on homework back there. Say hi to B.",
+			"voice": "Midtown 11",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "Heh. You didn't tell me we had guests. 'Sup, little dude.",
+			"voice": "midtown 12",
+			"boxState": "normal",
+			"portrait": "theo",
+			"speed": 0.07
+		},
+		{
+			"expression": "talk",
+			"text": "Over there's Shorty, he plays a mean tenor sax.",
+			"voice": "midtown 13",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "flirty",
+			"text": "Well, aren't you a handsome fella? How 'bout I show you how I play the--",
+			"voice": "midtown 14",
+			"boxState": "normal",
+			"portrait": "shorty",
+			"speed": 0.06
+		},
+		{
+			"expression": "annoyed",
+			"text": "Dude, come on, seriously? That's my sister's boyfriend.",
+			"voice": "midtown 15",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "embarrassed",
+			"text": "Oops",
+			"voice": "Midtown 16",
+			"boxState": "normal",
+			"portrait": "shorty",
+			"speed": 0.055
+		},
+		{
+			"expression": "happy",
+			"text": "On the ol' upright bass is Raquel.",
+			"voice": "Midtown 17",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "sassy",
+			"text": "She's not SUPER chatty.",
+			"voice": "midtown 18",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.075
+		},
+		{
+			"expression": "offended",
+			"text": "GASP! What is this SLANDER?!",
+			"voice": "midtown 19",
+			"boxState": "angry",
+			"portrait": "raquel",
+			"speed": 0.11
+		},
+		{
+			"expression": "excited",
+			"text": "I'd LOVE to get to know your sister and her boyfriend!",
+			"voice": "midtown 20",
+			"boxState": "normal",
+			"portrait": "raquel",
+			"speed": 0.06
+		},
+		{
+			"expression": "happy",
+			"text": "Hi, I'm Raquel, I'm a Sagittarius, my pronouns are ''she, her,'' and I'm from Chicago--",
+			"voice": "midtown 21",
+			"boxState": "normal",
+			"portrait": "raquel",
+			"speed": 0.055
+		},
+		{
+			"expression": "happy",
+			"text": "Raquel, I'm joking! Haha!",
+			"voice": "midtown 22",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.07
+		},
+		{
+			"expression": "sassy",
+			"text": "Finally, we have the lovely Minji, who keeps us on time with the drums.",
+			"voice": "midtown 23",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "We all know she's kinda the backbone of the group.",
+			"voice": "midtown 24",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.045
+		},
+		{
+			"expression": "casual",
+			"text": "Heh, don't you mean the back-BEAT?",
+			"voice": "midtown 25",
+			"boxState": "normal",
+			"portrait": "minji",
+			"speed": 0.05
+		},
+		{
+			"expression": "rimshot",
+			"text": "[rimshot]",
+			"voice": "rimshot",
+			"boxState": "angry",
+			"portrait": "minji",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "But seriously. Nice to meet ya.",
+			"voice": "Midtown 27",
+			"boxState": "normal",
+			"portrait": "minji",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Ooh! Sis! What if Boyfriend joined you guys for today?",
+			"voice": "midtown 28",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.075
+		},
+		{
+			"expression": "sassy",
+			"text": "Hell yeah. Whaddaya say, hotshot? Down to clown?",
+			"voice": "midtown 29",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.07
+		},
+		{
+			"expression": "excited",
+			"text": "beep bep boopbap",
+			"voice": "midtown 30",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.06
+		},
+		{
+			"expression": "talk",
+			"text": "Music to my ears. Let's start off easy.",
+			"voice": "midtown 31",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.075
+		},
+		{
+			"expression": "sassy",
+			"text": "Take it from the top, guys.",
+			"voice": "midtown 32",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		}
+	]
+}

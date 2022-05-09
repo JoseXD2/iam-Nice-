@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shortybook.png"><SubTexture name="shortybook idle0000" x="0" y="0" width="622" height="699" frameX="-144" frameY="-134" frameWidth="960" frameHeight="960" />
+<SubTexture name="shortybook idle0001" x="622" y="0" width="618" height="698" frameX="-148" frameY="-134" frameWidth="960" frameHeight="960" />
+<SubTexture name="shortybook idle0002" x="1240" y="0" width="617" height="698" frameX="-149" frameY="-134" frameWidth="960" frameHeight="960" />
+<SubTexture name="shortybook idle0003" x="1240" y="0" width="617" height="698" frameX="-149" frameY="-134" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

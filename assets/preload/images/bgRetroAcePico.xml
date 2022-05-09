@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgRetroAcePico.png"><SubTexture name="bgRetroAcePico idle0000" x="0" y="1883" width="2790" height="1878" frameX="-1012" frameY="-124" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="bgRetroAcePico idle0001" x="2791" y="1883" width="2796" height="1873" frameX="-1006" frameY="-129" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="bgRetroAcePico idle0002" x="0" y="0" width="2799" height="1882" frameX="-1003" frameY="-120" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="bgRetroAcePico idle0003" x="2800" y="0" width="2807" height="1882" frameX="-995" frameY="-120" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="bgRetroAcePico idle0004" x="2800" y="0" width="2807" height="1882" frameX="-995" frameY="-120" frameWidth="3804" frameHeight="2004" />
+</TextureAtlas>

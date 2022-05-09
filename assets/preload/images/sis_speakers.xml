@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sis_speakers.png"><SubTexture name="sis_speakers danceLeft0000" x="454" y="0" width="453" height="759" frameX="-136" frameY="-19" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceLeft0001" x="1400" y="0" width="446" height="748" frameX="-128" frameY="-29" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceLeft0002" x="0" y="765" width="446" height="748" frameX="-128" frameY="-29" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceLeft0003" x="0" y="0" width="454" height="765" frameX="-130" frameY="-12" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceLeft0004" x="446" y="765" width="481" height="744" frameX="-130" frameY="-33" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceLeft0005" x="927" y="765" width="486" height="740" frameX="-130" frameY="-37" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceRight0000" x="1846" y="740" width="503" height="711" frameX="-136" frameY="-67" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceRight0001" x="522" y="1513" width="517" height="707" frameX="-131" frameY="-71" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceRight0002" x="1039" y="1513" width="520" height="707" frameX="-131" frameY="-71" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceRight0003" x="0" y="1513" width="522" height="729" frameX="-130" frameY="-48" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceRight0004" x="1846" y="0" width="507" height="740" frameX="-130" frameY="-37" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis_speakers danceRight0005" x="907" y="0" width="493" height="752" frameX="-130" frameY="-25" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

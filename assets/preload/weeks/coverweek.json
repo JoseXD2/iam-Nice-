@@ -1,0 +1,67 @@
+{
+	"storyName": "The Cover Week",
+	"hideFreeplay": false,
+	"weekBackground": "cover1",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"covermenu1",
+		""
+	],
+	"songs": [
+		[
+			"Kunai",
+			"sis",
+			[
+				145,
+				0,
+				77
+			]
+		],
+		[
+			"Shotgun Shell",
+			"minji",
+			[
+				116,
+				53,
+				88
+			]
+		],
+		[
+			"Epiphany",
+			"theo",
+			[
+				54,
+				91,
+				135
+			]
+		],
+		[
+			"Saxpurgation",
+			"shorty",
+			[
+				117,
+				117,
+				187
+			]
+		],
+		[
+			"Endless",
+			"raquel",
+			[
+				102,
+				159,
+				81
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Bonus Week"
+}

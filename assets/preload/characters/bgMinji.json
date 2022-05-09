@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "bgMinji danceLeft"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "bgMinji danceRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bgMinji",
+	"position": [
+		-120,
+		-90
+	],
+	"healthicon": "minji",
+	"flip_x": false,
+	"healthbar_colors": [
+		116,
+		53,
+		88
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

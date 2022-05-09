@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dialoguetheo.png"><SubTexture name="dialoguetheo annoyed0000" x="0" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo annoyed0001" x="0" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo annoyed0002" x="0" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo annoyed0003" x="0" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo annoyed0004" x="1880" y="0" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo annoyed0005" x="1880" y="0" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo happy0000" x="470" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo happy0001" x="470" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo happy0002" x="470" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo happy0003" x="470" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo happy0004" x="1880" y="782" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo happy0005" x="1880" y="782" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo suave0000" x="940" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo suave0001" x="940" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo suave0002" x="940" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo suave0003" x="940" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo suave0004" x="2350" y="0" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo suave0005" x="2350" y="0" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo talk0000" x="1410" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo talk0001" x="1410" y="0" width="470" height="785" frameX="-121" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo talk0002" x="1410" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo talk0003" x="1410" y="785" width="470" height="784" frameX="-123" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo talk0004" x="2350" y="782" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+<SubTexture name="dialoguetheo talk0005" x="2350" y="782" width="470" height="782" frameX="-119" frameY="-92" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

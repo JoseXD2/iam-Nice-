@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Sis.png">
+<SubTexture name="Sister Searest idle0000" x="0" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0001" x="0" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0002" x="964" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0003" x="964" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0004" x="1928" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0005" x="1928" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0006" x="2892" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0007" x="2892" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0008" x="0" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0009" x="0" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0010" x="964" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0011" x="964" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0012" x="1928" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0013" x="1928" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0014" x="2892" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0015" x="2892" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0016" x="0" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0017" x="0" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0018" x="964" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="Sister Searest idle0019" x="964" y="1928" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+</TextureAtlas>

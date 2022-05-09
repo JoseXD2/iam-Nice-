@@ -1,0 +1,112 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Aw,  yeah, nice JOB! That was freakin' SEXY!",
+			"voice": "week2end 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "sis"
+		},
+		{
+			"expression": "confident",
+			"text": "Heheh.  Interesting choice of words, Sister.",
+			"voice": "week2end 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "Minji"
+		},
+		{
+			"expression": "embarrassed",
+			"text": "I. Um. Well. I just. ",
+			"voice": "week2end 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "sis"
+		},
+		{
+			"expression": "embarrassed",
+			"text": "Ithinkwealldidagreatjobandweshouldallbe\\nproudofourselvesforsuchagreatshowandi'm\\ngoingtoburnupoutofembarrassmentnow",
+			"voice": "week2end 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "sis"
+		},
+		{
+			"expression": "happy",
+			"text": "Thanks for playin' with us again, Boyfriend. This was one kickass gig.",
+			"voice": "week2end 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "Minji"
+		},
+		{
+			"expression": "happy",
+			"text": "Mm-hm. You got that right.",
+			"voice": "week2end 6",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "Theo"
+		},
+		{
+			"expression": "excited",
+			"text": "i'm always down to beep some bops for you guys",
+			"voice": "week2end 7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "excited",
+			"text": "Always a pleasure playing with you! You're real fun!",
+			"voice": "week2end 8",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "happy",
+			"text": "Listen, you're always welcome to come back and jam. We can do with a bit more beep-boop\\-\\nbop action in our lives.",
+			"voice": "week2end 9",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "Shorty"
+		},
+		{
+			"expression": "talk",
+			"text": "That was so much fun! Can we do it again sometime?",
+			"voice": "week2end 10",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, we might come back for another show with a different setlist...",
+			"voice": "week2end 11",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "sis"
+		},
+		{
+			"expression": "happy",
+			"text": "I guess you'll just have to drop on by when we do!",
+			"voice": "week2end 12",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "sis"
+		}
+	]
+}

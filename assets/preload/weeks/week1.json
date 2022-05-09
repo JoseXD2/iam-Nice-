@@ -1,0 +1,48 @@
+{
+	"storyName": "Jazzed to Meet'cha",
+	"hideFreeplay": false,
+	"weekBackground": "bandroom",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sis",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Midtown Blues",
+			"sis",
+			[
+				145,
+				0,
+				77
+			]
+		],
+		[
+			"Brassafrass",
+			"sis",
+			[
+				145,
+				0,
+				77
+			]
+		],
+		[
+			"Hotfoot",
+			"sis",
+			[
+				145,
+				0,
+				77
+			]
+		]
+	],
+	"weekName": "Week 1"
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NikusaBG.png"><SubTexture name="NikusaBG idle0000" x="1910" y="0" width="621" height="1257" frameX="-266" frameY="-86" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="NikusaBG idle0001" x="1263" y="0" width="647" height="1258" frameX="-255" frameY="-85" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="NikusaBG idle0002" x="0" y="0" width="650" height="1263" frameX="-265" frameY="-80" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="NikusaBG idle0003" x="650" y="0" width="613" height="1260" frameX="-266" frameY="-83" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="NikusaBG idle0004" x="1910" y="0" width="621" height="1257" frameX="-266" frameY="-86" frameWidth="3804" frameHeight="2004" />
+</TextureAtlas>

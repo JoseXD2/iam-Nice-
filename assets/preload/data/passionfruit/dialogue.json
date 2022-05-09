@@ -1,0 +1,121 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Heyyyy, whaddaya know, you CAN keep up with us!",
+			"voice": "Passionfruit 1",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "shorty"
+		},
+		{
+			"expression": "talk",
+			"text": "this ain't nothin' compared to matt from wii sports",
+			"voice": "Passionfruit 2",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "surprised",
+			"text": "That's right, G tells me you sing faster on the regular.",
+			"voice": "Passionfruit 3",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Sis"
+		},
+		{
+			"expression": "talk",
+			"text": "He's so talented. :)",
+			"voice": "Passionfruit 4",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "gf"
+		},
+		{
+			"expression": "confused",
+			"text": "so many people sing so fast, why can't more people be chill like cassette girl",
+			"voice": "Passionfruit 5",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "or you guys tbh",
+			"voice": "Passionfruit 6",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Hey, if you're looking for chill, I've got some great news for you!",
+			"voice": "Passionfruit 7",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "happy",
+			"text": "I've prepared a really sweet bossa nova track that I'm super proud of! It's called ''Passionfruit!''",
+			"voice": "Passionfruit 8",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "happy",
+			"text": "I came up with the name after looking at a bottle of some vitamin juice drink inside a vending machine.",
+			"voice": "Passionfruit 9",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "talk",
+			"text": "Should be a really easy, relaxing song.",
+			"voice": "Passionfruit 10",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "raquel"
+		},
+		{
+			"expression": "talk",
+			"text": "i would like to relax, yes",
+			"voice": "Passionfruit 11",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "bf"
+		},
+		{
+			"expression": "happy",
+			"text": "Sweet! Er. No pun intended. Count us off, Raq!",
+			"voice": "Passionfruit 12",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.08,
+			"portrait": "sis"
+		},
+		{
+			"expression": "happy",
+			"text": "Yay!",
+			"voice": "Passionfruit 13",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "raquel"
+		}
+	]
+}

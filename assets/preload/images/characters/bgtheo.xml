@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgtheo.png"><SubTexture name="bgtheo danceLeft0000" x="0" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceLeft0001" x="964" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceLeft0002" x="1928" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceLeft0003" x="2892" y="0" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceRight0000" x="0" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceRight0001" x="964" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceRight0002" x="1928" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgtheo danceRight0003" x="2892" y="964" width="964" height="964" frameX="0" frameY="0" frameWidth="964" frameHeight="964" />
+</TextureAtlas>

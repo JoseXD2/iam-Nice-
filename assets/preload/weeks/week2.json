@@ -1,0 +1,67 @@
+{
+	"storyName": "Gig Week",
+	"hideFreeplay": false,
+	"weekBackground": "club",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"menuband",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fireplace",
+			"sis",
+			[
+				145,
+				0,
+				77
+			]
+		],
+		[
+			"Coolhead",
+			"theo",
+			[
+				54,
+				91,
+				135
+			]
+		],
+		[
+			"Pesto Linguine",
+			"shorty",
+			[
+				117,
+				117,
+				187
+			]
+		],
+		[
+			"Passionfruit",
+			"raquel",
+			[
+				102,
+				159,
+				81
+			]
+		],
+		[
+			"Heavy Liftin'",
+			"minji",
+			[
+				116,
+				53,
+				88
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 2"
+}

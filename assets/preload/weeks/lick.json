@@ -1,0 +1,31 @@
+{
+	"storyName": "the lick",
+	"hideFreeplay": false,
+	"weekBackground": "lick",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"the lick",
+			"sis",
+			[
+				145,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sis",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "the lick"
+}

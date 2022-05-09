@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "stage_club",
+		"player1": "bf",
+		"player2": "raquel",
+		"player3": null,
+		"events": [
+			[
+				103741.935483871,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				103741.935483871,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"GF"
+					]
+				]
+			],
+			[
+				104129.032258065,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"GF"
+					]
+				]
+			],
+			[
+				104516.129032258,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"GF"
+					]
+				]
+			],
+			[
+				104903.225806452,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			],
+			[
+				154838.709677419,
+				[
+					[
+						"Hey!",
+						"Both",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-original",
+		"bpm": 155,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "endless"
+	}
+}

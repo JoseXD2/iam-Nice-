@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sis-playable.png"><SubTexture name="sis-playable blowback0000" x="7142" y="0" width="726" height="797" frameX="-94" frameY="-128" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0001" x="3587" y="6239" width="737" height="811" frameX="-106" frameY="-114" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0002" x="4324" y="6239" width="732" height="810" frameX="-108" frameY="-116" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0003" x="2860" y="6239" width="727" height="812" frameX="-117" frameY="-113" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0004" x="2129" y="6239" width="731" height="819" frameX="-112" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0005" x="4324" y="6239" width="732" height="810" frameX="-108" frameY="-116" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0006" x="2860" y="6239" width="727" height="812" frameX="-117" frameY="-113" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0007" x="2129" y="6239" width="731" height="819" frameX="-112" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0008" x="4324" y="6239" width="732" height="810" frameX="-108" frameY="-116" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0009" x="2860" y="6239" width="727" height="812" frameX="-117" frameY="-113" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0010" x="2129" y="6239" width="731" height="819" frameX="-112" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0011" x="3587" y="6239" width="737" height="811" frameX="-106" frameY="-114" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0012" x="2860" y="6239" width="727" height="812" frameX="-117" frameY="-113" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0013" x="4324" y="6239" width="732" height="810" frameX="-108" frameY="-116" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0014" x="2129" y="6239" width="731" height="819" frameX="-112" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0015" x="1410" y="6239" width="719" height="828" frameX="-116" frameY="-97" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0016" x="4272" y="5388" width="605" height="845" frameX="-137" frameY="-80" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0017" x="688" y="5388" width="564" height="850" frameX="-197" frameY="-73" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0018" x="2605" y="5388" width="569" height="848" frameX="-194" frameY="-75" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0019" x="3174" y="5388" width="569" height="848" frameX="-194" frameY="-75" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable blowback0020" x="3174" y="5388" width="569" height="848" frameX="-194" frameY="-75" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0000" x="0" y="939" width="673" height="918" frameX="-121" frameY="-30" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0001" x="1326" y="0" width="663" height="927" frameX="-120" frameY="-17" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0002" x="0" y="0" width="663" height="939" frameX="-120" frameY="-5" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0003" x="663" y="0" width="663" height="932" frameX="-120" frameY="-12" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0004" x="1989" y="0" width="663" height="884" frameX="-120" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0005" x="1989" y="0" width="663" height="884" frameX="-120" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0006" x="1989" y="0" width="663" height="884" frameX="-120" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0007" x="1989" y="884" width="662" height="884" frameX="-121" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0008" x="2652" y="0" width="661" height="884" frameX="-122" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0009" x="2652" y="884" width="622" height="884" frameX="-161" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0010" x="0" y="1857" width="607" height="884" frameX="-176" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0011" x="607" y="1857" width="605" height="884" frameX="-178" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0012" x="1212" y="1857" width="621" height="884" frameX="-162" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0013" x="1833" y="1857" width="606" height="884" frameX="-177" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0014" x="2439" y="1857" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0015" x="2439" y="1857" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0016" x="2439" y="1857" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0017" x="3313" y="0" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0018" x="3313" y="884" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0019" x="3313" y="1768" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0020" x="0" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0021" x="613" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0022" x="1226" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable die0023" x="1226" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0000" x="1839" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0001" x="2452" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0002" x="3065" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0003" x="3926" y="0" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0004" x="3926" y="884" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0005" x="3926" y="1768" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0006" x="1839" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0007" x="2452" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0008" x="3065" y="2741" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0009" x="3926" y="2652" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0010" x="3926" y="884" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable deadloop0011" x="3926" y="884" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable hey0000" x="4877" y="5388" width="713" height="844" frameX="-107" frameY="-55" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable hey0001" x="0" y="5388" width="688" height="851" frameX="-103" frameY="-49" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable hey0002" x="1252" y="5388" width="686" height="850" frameX="-106" frameY="-50" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable hey0003" x="1252" y="5388" width="686" height="850" frameX="-106" frameY="-50" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable idle0000" x="4539" y="883" width="557" height="867" frameX="-126" frameY="-57" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable idle0001" x="1975" y="4509" width="557" height="860" frameX="-126" frameY="-64" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable idle0002" x="4539" y="1750" width="573" height="863" frameX="-115" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable idle0003" x="4539" y="2613" width="566" height="861" frameX="-120" frameY="-61" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable idle0004" x="4539" y="3474" width="566" height="861" frameX="-120" frameY="-61" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable missDOWN0000" x="6494" y="0" width="648" height="832" frameX="-116" frameY="-88" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable missLEFT0000" x="5812" y="853" width="593" height="852" frameX="-95" frameY="-73" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable missRIGHT0000" x="6494" y="4123" width="518" height="815" frameX="-227" frameY="-110" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable missUP0000" x="5812" y="1705" width="615" height="852" frameX="-109" frameY="-70" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singDOWN0000" x="3582" y="4509" width="530" height="857" frameX="-176" frameY="-69" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singDOWN0001" x="3743" y="5388" width="529" height="848" frameX="-177" frameY="-78" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singDOWN0002" x="3055" y="4509" width="527" height="859" frameX="-179" frameY="-67" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singDOWN0003" x="2532" y="4509" width="523" height="860" frameX="-183" frameY="-66" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singLEFT0000" x="5149" y="2635" width="640" height="871" frameX="-63" frameY="-57" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singLEFT0001" x="1339" y="4509" width="636" height="867" frameX="-63" frameY="-61" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singLEFT0002" x="5149" y="1761" width="632" height="874" frameX="-68" frameY="-54" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singLEFT0003" x="5149" y="3506" width="640" height="871" frameX="-63" frameY="-57" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singRIGHT0000" x="1293" y="939" width="691" height="886" frameX="-257" frameY="-49" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singRIGHT0001" x="5149" y="0" width="663" height="882" frameX="-256" frameY="-53" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singRIGHT0002" x="669" y="4509" width="670" height="877" frameX="-258" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singRIGHT0003" x="0" y="4509" width="669" height="879" frameX="-259" frameY="-56" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singUP0000" x="5056" y="6239" width="468" height="810" frameX="-229" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singUP0001" x="5524" y="6239" width="476" height="810" frameX="-222" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singUP0002" x="6000" y="6239" width="468" height="807" frameX="-234" frameY="-110" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable alt singUP0003" x="6468" y="6239" width="467" height="807" frameX="-237" frameY="-109" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singDOWN0000" x="6494" y="832" width="648" height="832" frameX="-116" frameY="-88" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singDOWN0001" x="703" y="6239" width="707" height="831" frameX="-121" frameY="-90" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singDOWN0002" x="5590" y="5388" width="710" height="833" frameX="-119" frameY="-88" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singDOWN0003" x="0" y="6239" width="703" height="832" frameX="-116" frameY="-88" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singLEFT0000" x="4112" y="4509" width="679" height="855" frameX="-12" frameY="-70" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singLEFT0001" x="5812" y="0" width="682" height="853" frameX="-5" frameY="-71" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singLEFT0002" x="1938" y="5388" width="667" height="850" frameX="-21" frameY="-75" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singLEFT0003" x="5812" y="2557" width="648" height="852" frameX="-40" frameY="-73" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singRIGHT0000" x="6494" y="2486" width="594" height="819" frameX="-202" frameY="-106" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singRIGHT0001" x="6494" y="1664" width="596" height="822" frameX="-230" frameY="-103" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singRIGHT0002" x="6494" y="3305" width="617" height="818" frameX="-227" frameY="-107" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singRIGHT0003" x="6494" y="4938" width="518" height="815" frameX="-227" frameY="-110" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singUP0000" x="5812" y="3409" width="617" height="852" frameX="-107" frameY="-70" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singUP0001" x="4791" y="4509" width="621" height="854" frameX="-103" frameY="-68" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singUP0002" x="5149" y="882" width="615" height="879" frameX="-109" frameY="-43" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable singUP0003" x="5812" y="4261" width="615" height="852" frameX="-109" frameY="-70" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0000" x="4539" y="0" width="610" height="883" frameX="-170" frameY="-61" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0001" x="673" y="939" width="620" height="887" frameX="-170" frameY="-57" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0002" x="0" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0003" x="613" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0004" x="1226" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0005" x="1839" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0006" x="1839" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0007" x="2452" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0008" x="3065" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0009" x="3678" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0010" x="3678" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+<SubTexture name="sis-playable retry0011" x="3678" y="3625" width="613" height="884" frameX="-170" frameY="-60" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

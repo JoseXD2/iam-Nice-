@@ -1,0 +1,102 @@
+{
+	"position": [
+		-110,
+		-280
+	],
+	"dialogue_pos": "left",
+	"scale": 0.9,
+	"image": "dialogue_Minji",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "dialogue_Minji talk0004",
+			"loop_name": "dialogue_Minji talk"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialogue_Minji happy",
+			"idle_name": "dialogue_Minji happy0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "upset",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialogue_Minji upset",
+			"idle_name": "dialogue_Minji upset0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "flex",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialogue_Minji flex",
+			"idle_name": "dialogue_Minji flex0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confident",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialogue_Minji confident",
+			"idle_name": "dialogue_Minji confident0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "casual",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialogue_Minji casual",
+			"idle_name": "dialogue_Minji casual0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "rimshot",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "dialogue_Minji rimshot",
+			"idle_name": "dialogue_Minji casual0020"
+		}
+	]
+}

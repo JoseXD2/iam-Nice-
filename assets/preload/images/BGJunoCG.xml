@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BGJunoCG.png"><SubTexture name="BGJunoCG idle0000" x="0" y="1506" width="2059" height="730" frameX="-734" frameY="-1054" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="BGJunoCG idle0001" x="2061" y="0" width="2041" height="732" frameX="-739" frameY="-1052" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="BGJunoCG idle0002" x="0" y="760" width="2051" height="746" frameX="-739" frameY="-1036" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="BGJunoCG idle0003" x="0" y="0" width="2061" height="760" frameX="-739" frameY="-1022" frameWidth="3804" frameHeight="2004" />
+<SubTexture name="BGJunoCG idle0004" x="0" y="0" width="2061" height="760" frameX="-739" frameY="-1022" frameWidth="3804" frameHeight="2004" />
+</TextureAtlas>

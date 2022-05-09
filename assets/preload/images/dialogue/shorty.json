@@ -1,0 +1,76 @@
+{
+	"position": [
+		-170,
+		-160
+	],
+	"dialogue_pos": "left",
+	"scale": 0.999999999999999,
+	"image": "dialogue_Shorty",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "dialogue_shorty talk0000",
+			"loop_name": "dialogue_shorty talk"
+		},
+		{
+			"loop_name": "dialogue_shorty embarrassed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue_shorty embarrassed0000",
+			"anim": "embarrassed",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialogue_shorty flirty",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue_shorty flirty0000",
+			"anim": "flirty",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialogue_shorty happy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue_shorty happy0000",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "dialogue_shorty offended",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "dialogue_shorty offended0000",
+			"anim": "offended",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

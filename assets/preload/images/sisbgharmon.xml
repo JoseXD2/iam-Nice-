@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sisbgharmon.png"><SubTexture name="sisbgharmon idle0000" x="417" y="0" width="414" height="863" frameX="-277" frameY="-31" frameWidth="960" frameHeight="960" />
+<SubTexture name="sisbgharmon idle0001" x="831" y="0" width="414" height="861" frameX="-277" frameY="-33" frameWidth="960" frameHeight="960" />
+<SubTexture name="sisbgharmon idle0002" x="0" y="0" width="417" height="877" frameX="-277" frameY="-17" frameWidth="960" frameHeight="960" />
+<SubTexture name="sisbgharmon playing0000" x="1245" y="0" width="528" height="808" frameX="-253" frameY="-86" frameWidth="960" frameHeight="960" />
+<SubTexture name="sisbgharmon playing0001" x="523" y="877" width="523" height="801" frameX="-258" frameY="-93" frameWidth="960" frameHeight="960" />
+<SubTexture name="sisbgharmon playing0002" x="0" y="877" width="523" height="802" frameX="-254" frameY="-92" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

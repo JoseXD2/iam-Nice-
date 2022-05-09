@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Alright. This tune was just a straight up banger. If you couldn't tell from the title! Literally!",
+			"voice": "shotgun 1",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minji"
+		},
+		{
+			"expression": "talk",
+			"text": "When I first heard it, I was hit by a wave of like, pure awesomeness.",
+			"voice": "shotgun 2",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minji"
+		},
+		{
+			"expression": "happy",
+			"text": "I put the original on my workout playlist!",
+			"voice": "shotgun 3",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minji"
+		},
+		{
+			"expression": "talk",
+			"text": "so what is it?",
+			"voice": "shotgun 4",
+			"boxState": "normal",
+			"speed": 0.055,
+			"portrait": "bf"
+		},
+		{
+			"expression": "flex",
+			"text": "Well, let's just say tonight I brought along some ammo for these guns.",
+			"voice": "shotgun 5",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "minji"
+		}
+	]
+}

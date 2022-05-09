@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgsis.png"><SubTexture name="bgsis gayLeft0000" x="403" y="892" width="400" height="877" frameX="-296" frameY="-18" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayLeft0001" x="2399" y="877" width="400" height="873" frameX="-296" frameY="-22" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayLeft0002" x="1432" y="1770" width="401" height="870" frameX="-295" frameY="-26" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayLeft0003" x="0" y="892" width="403" height="878" frameX="-293" frameY="-18" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayRight0000" x="803" y="892" width="400" height="877" frameX="-296" frameY="-18" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayRight0001" x="1999" y="877" width="400" height="873" frameX="-296" frameY="-22" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayRight0002" x="1833" y="1770" width="401" height="870" frameX="-295" frameY="-26" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis gayRight0003" x="1203" y="892" width="403" height="877" frameX="-293" frameY="-19" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis idle0000" x="1999" y="0" width="400" height="877" frameX="-296" frameY="-18" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis idle0001" x="1032" y="1770" width="400" height="873" frameX="-296" frameY="-22" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis idle0002" x="2234" y="1770" width="401" height="870" frameX="-295" frameY="-26" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis idle0003" x="2399" y="0" width="403" height="877" frameX="-293" frameY="-19" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceLeft0000" x="471" y="0" width="487" height="886" frameX="-176" frameY="-28" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceLeft0001" x="0" y="0" width="471" height="892" frameX="-182" frameY="-22" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceLeft0002" x="550" y="1770" width="482" height="874" frameX="-185" frameY="-40" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceLeft0003" x="2802" y="0" width="469" height="864" frameX="-196" frameY="-51" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceRight0000" x="958" y="0" width="516" height="885" frameX="-181" frameY="-28" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceRight0001" x="1474" y="0" width="525" height="884" frameX="-184" frameY="-29" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceRight0002" x="0" y="1770" width="550" height="877" frameX="-184" frameY="-38" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis danceRight0003" x="3271" y="0" width="523" height="864" frameX="-196" frameY="-51" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis playing0000" x="3271" y="864" width="500" height="808" frameX="-283" frameY="-88" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis playing0001" x="0" y="2647" width="495" height="801" frameX="-288" frameY="-95" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis playing0002" x="3271" y="1672" width="494" height="802" frameX="-285" frameY="-94" frameWidth="964" frameHeight="964" />
+<SubTexture name="bgsis playing0003" x="3271" y="1672" width="494" height="802" frameX="-285" frameY="-94" frameWidth="964" frameHeight="964" />
+</TextureAtlas>

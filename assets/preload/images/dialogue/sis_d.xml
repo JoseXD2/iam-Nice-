@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sis_d.png"><SubTexture name="sis_d annoyed0000" x="330" y="959" width="370" height="475" frameX="-40" frameY="-65" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d annoyed0001" x="330" y="959" width="370" height="475" frameX="-40" frameY="-65" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d annoyed0002" x="1487" y="0" width="366" height="470" frameX="-45" frameY="-70" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d annoyed0003" x="1487" y="0" width="366" height="470" frameX="-45" frameY="-70" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d annoyed0004" x="0" y="1435" width="368" height="462" frameX="-43" frameY="-78" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d annoyed0005" x="0" y="1435" width="368" height="462" frameX="-43" frameY="-78" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d happy0000" x="1853" y="0" width="371" height="470" frameX="-40" frameY="-70" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d happy0001" x="1853" y="0" width="371" height="470" frameX="-40" frameY="-70" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d happy0002" x="0" y="0" width="371" height="481" frameX="-39" frameY="-59" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d happy0003" x="0" y="0" width="371" height="481" frameX="-39" frameY="-59" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d happy0004" x="700" y="481" width="372" height="477" frameX="-38" frameY="-63" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d happy0005" x="700" y="481" width="372" height="477" frameX="-38" frameY="-63" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d neutral0000" x="1853" y="470" width="371" height="470" frameX="-40" frameY="-70" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d neutral0001" x="1853" y="470" width="371" height="470" frameX="-40" frameY="-70" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d neutral0002" x="371" y="0" width="371" height="481" frameX="-39" frameY="-59" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d neutral0003" x="371" y="0" width="371" height="481" frameX="-39" frameY="-59" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d neutral0004" x="1115" y="0" width="372" height="477" frameX="-38" frameY="-63" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d neutral0005" x="1115" y="0" width="372" height="477" frameX="-38" frameY="-63" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sad0000" x="700" y="959" width="330" height="472" frameX="-40" frameY="-68" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sad0001" x="700" y="959" width="330" height="472" frameX="-40" frameY="-68" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sad0002" x="0" y="481" width="333" height="478" frameX="-39" frameY="-62" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sad0003" x="0" y="481" width="333" height="478" frameX="-39" frameY="-62" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sad0004" x="0" y="959" width="330" height="476" frameX="-40" frameY="-64" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sad0005" x="0" y="959" width="330" height="476" frameX="-40" frameY="-64" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d surprised0000" x="1030" y="959" width="370" height="472" frameX="-39" frameY="-68" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d surprised0001" x="1030" y="959" width="370" height="472" frameX="-39" frameY="-68" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d surprised0002" x="742" y="0" width="373" height="480" frameX="-37" frameY="-60" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d surprised0003" x="742" y="0" width="373" height="480" frameX="-37" frameY="-60" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d surprised0004" x="333" y="481" width="367" height="478" frameX="-43" frameY="-62" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d surprised0005" x="333" y="481" width="367" height="478" frameX="-43" frameY="-62" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sassy0000" x="1238" y="1435" width="445" height="421" frameX="-17" frameY="-119" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sassy0001" x="1238" y="1435" width="445" height="421" frameX="-17" frameY="-119" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sassy0002" x="368" y="1435" width="428" height="431" frameX="-20" frameY="-109" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sassy0003" x="368" y="1435" width="428" height="431" frameX="-20" frameY="-109" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sassy0004" x="796" y="1435" width="442" height="426" frameX="-16" frameY="-114" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d sassy0005" x="796" y="1435" width="442" height="426" frameX="-16" frameY="-114" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d embarrassed0000" x="1853" y="940" width="330" height="469" frameX="-42" frameY="-71" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d embarrassed0001" x="1853" y="940" width="330" height="469" frameX="-42" frameY="-71" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d embarrassed0002" x="1115" y="477" width="334" height="477" frameX="-38" frameY="-63" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d embarrassed0003" x="1115" y="477" width="334" height="477" frameX="-38" frameY="-63" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d embarrassed0004" x="1487" y="470" width="336" height="469" frameX="-38" frameY="-71" frameWidth="540" frameHeight="540" />
+<SubTexture name="sis_d embarrassed0005" x="1487" y="470" width="336" height="469" frameX="-38" frameY="-71" frameWidth="540" frameHeight="540" />
+</TextureAtlas>

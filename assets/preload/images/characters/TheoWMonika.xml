@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TheoWMonika.png"><SubTexture name="TheoWMonika alt_singDOWN0000" x="0" y="0" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singDOWN0001" x="803" y="0" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singDOWN0002" x="1606" y="0" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singDOWN0003" x="0" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singDOWN0004" x="0" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singLEFT0000" x="803" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singLEFT0001" x="1606" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singLEFT0002" x="2409" y="0" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singLEFT0003" x="2409" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singLEFT0004" x="2409" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singRIGHT0000" x="0" y="1778" width="829" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singRIGHT0001" x="829" y="1778" width="832" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singRIGHT0002" x="1661" y="1778" width="831" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singRIGHT0003" x="3212" y="0" width="828" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singRIGHT0004" x="3212" y="0" width="828" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singUP0000" x="3212" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singUP0001" x="3212" y="1778" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singUP0002" x="0" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singUP0003" x="803" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika alt_singUP0004" x="803" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika idle0000" x="1606" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika idle0001" x="2409" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika idle0002" x="3212" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika idle0003" x="4040" y="0" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika idle0004" x="4040" y="0" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singDOWN0000" x="4040" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singDOWN0001" x="4040" y="1778" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singDOWN0002" x="4040" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singDOWN0003" x="0" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singDOWN0004" x="0" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singLEFT0000" x="803" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singLEFT0001" x="1606" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singLEFT0002" x="2409" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singLEFT0003" x="3212" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singLEFT0004" x="3212" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singRIGHT0000" x="4015" y="3556" width="804" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singRIGHT0001" x="4843" y="0" width="807" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singRIGHT0002" x="4843" y="889" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singRIGHT0003" x="4843" y="1778" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singRIGHT0004" x="4843" y="1778" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singUP0000" x="4843" y="2667" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singUP0001" x="4843" y="3556" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singUP0002" x="0" y="4445" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singUP0003" x="803" y="4445" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+<SubTexture name="TheoWMonika singUP0004" x="803" y="4445" width="803" height="889" frameX="-64" frameY="-58" frameWidth="960" frameHeight="960" />
+</TextureAtlas>

@@ -1,0 +1,148 @@
+{
+	"dialogue": [
+		{
+			"expression": "happy",
+			"text": "Heyyyy! G! B! You made it!",
+			"voice": "Fireplace 1",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.09
+		},
+		{
+			"expression": "talk",
+			"text": "I wouldn't miss this show for the world, Sis! Especially since Boyfriend's going to be joining you!",
+			"voice": "Fireplace 2",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "ayo what up",
+			"voice": "Fireplace 3",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Hey, little dude.",
+			"voice": "Fireplace 4",
+			"boxState": "normal",
+			"portrait": "Theo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Hope you're all warmed up and ready to go. We're playin' for a pretty big crowd.",
+			"voice": "Fireplace 5",
+			"boxState": "normal",
+			"portrait": "Minji",
+			"speed": 0.045
+		},
+		{
+			"expression": "talk",
+			"text": "Think you can handle it?",
+			"voice": "Fireplace 6",
+			"boxState": "normal",
+			"portrait": "Minji",
+			"speed": 0.03
+		},
+		{
+			"expression": "excited",
+			"text": "yep. I'll take anything you throw at me",
+			"voice": "Fireplace 7",
+			"boxState": "normal",
+			"portrait": "BF",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What's this? Do mine ears deceive me? He's not just beeping and booping?",
+			"voice": "Fireplace 8",
+			"boxState": "normal",
+			"portrait": "shorty",
+			"speed": 0.075
+		},
+		{
+			"expression": "talk",
+			"text": "yea you guys are tight and also not tryna kill me so",
+			"voice": "Fireplace 9",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.055
+		},
+		{
+			"expression": "uwu",
+			"text": "Oh, you poor thing, you must've been through\\nso much.",
+			"voice": "Fireplace 10",
+			"boxState": "normal",
+			"portrait": "Raquel",
+			"speed": 0.065
+		},
+		{
+			"expression": "excited",
+			"text": "Just know you can always trust us to listen to you if you ever have anything you need to say.",
+			"voice": "Fireplace 11",
+			"boxState": "normal",
+			"portrait": "raquel",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "bet",
+			"voice": "Fireplace 12",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "surprised",
+			"text": "Alright, well, it looks like the crowd's all settled in.",
+			"voice": "Fireplace 13",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.06
+		},
+		{
+			"expression": "happy",
+			"text": "Whaddaya say we just put the rubber to the road?",
+			"voice": "Fireplace 14",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.04
+		},
+		{
+			"expression": "talk",
+			"text": "Music to my ears.",
+			"voice": "Fireplace 15",
+			"boxState": "normal",
+			"portrait": "Minji",
+			"speed": 0.065
+		},
+		{
+			"expression": "talk",
+			"text": "Let's open it up.",
+			"voice": "Fireplace 16",
+			"boxState": "normal",
+			"portrait": "Theo",
+			"speed": 0.055
+		},
+		{
+			"expression": "sassy",
+			"text": "Alright. Let's start off with one I call \\n''Fireplace.''",
+			"voice": "Fireplace 17",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.06
+		},
+		{
+			"expression": "happy",
+			"text": "I'm sure you know the drill by now B. You'll do great!",
+			"voice": "fireplace 18",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.04
+		}
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Alright, gang, let's take five!",
+			"voice": "brassafrass 1",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beep?",
+			"voice": "brassafrass 2",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Oh, no, we're not playing ''Take Five,'' haha! We're just taking a break.",
+			"voice": "brassafrass 3",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.06
+		},
+		{
+			"expression": "happy",
+			"text": "You doin' good, B! Smooth moves back there.",
+			"voice": "Brassafrass 4",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "sassy",
+			"text": "You sure know how to pick 'em, G.",
+			"voice": "Brassafrass 5",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "Heyyyy.",
+			"voice": "Brassafrass 6",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.08
+		},
+		{
+			"expression": "talk",
+			"text": "bap boop",
+			"voice": "brassafrass 7",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "sassy",
+			"text": "Right on. Ready to turn up the heat?",
+			"voice": "brassafrass 8",
+			"boxState": "normal",
+			"portrait": "sis",
+			"speed": 0.06
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"voice": "brassafrass 9",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "happy",
+			"text": "Smokin'! Count us off, G!",
+			"voice": "brassafrass 10",
+			"boxState": "normal",
+			"portrait": "Sis",
+			"speed": 0.06
+		}
+	]
+}
